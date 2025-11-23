@@ -6,7 +6,7 @@
               2) We can Withdraul the money.
               3) We can Deposit the money.
               4) We can Check Balance.
-              5) We can Reset the pin.
+              5) We can Reset the pin. 
               
 #technologies/tools-used : 1) time function.
                            2) if and if else statements.
